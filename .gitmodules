@@ -1,0 +1,3 @@
+[submodule "pycon-pandas-tutorial"]
+	path = pycon-pandas-tutorial
+	url = https://github.com/brandon-rhodes/pycon-pandas-tutorial.git
