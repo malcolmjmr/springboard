@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Config files
+config.*
+
+# Data files
+data/

@@ -1,0 +1,32 @@
+table {
+    border: none;
+    text-align: left;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    width: 100%;
+}
+
+th {
+    font: 16px bold;
+    background-color: #2C8399;
+    opacity: 0.6;
+    padding: 10px;
+    color: white;
+}
+
+tr {
+    background-color: #EDEDED;
+}
+
+tr:hover {
+    background-color: lightblue;
+}
+
+td {
+    border: 1px dotted white;
+}
+
+h2 {
+    background-color: #2C8399;
+    color: white;
+    padding: 20px;
+}
