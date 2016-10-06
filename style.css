@@ -25,6 +25,12 @@ td {
     border: 1px dotted white;
 }
 
+h1 {
+    padding: 10px;
+    border-bottom: 2px solid #2C8399;
+    color: #2C8399;
+}
+
 h2 {
     background-color: #2C8399;
     color: white;
